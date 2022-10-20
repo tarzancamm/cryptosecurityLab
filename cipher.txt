@@ -1,0 +1,13 @@
+Part 2:
+
+Alphabet: a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+Key: +2 characters
+
+Phrase: I love cryptography
+
+Encipher: k nqxg etarvqitcrja
+
+Part 3:
+
+In 2013 Edward Snowden, a previous employee of the CIA, leaked classified cybersecurity information from the NSA. Snowden worked with reporters from major US news outlets to leak the documents, which detailed US surveillance on its own citizens. Snowden's motivation was to expose the US government's gross overreach on the privacy of its citizens. Edward Snowden was able to access this information due to his position within the CIA, and his access to secure files. He was able to download these files onto an external storage device, and hide this device within a rubix cube. History shows the US government is inept, and will be unable to stop future breaches. However, Edward Snowden will be arrested and tried if he steps foot back in the US, so this may demotivate future actors from attempted to leak classified documents in the future.
